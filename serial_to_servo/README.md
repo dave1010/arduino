@@ -1,8 +1,7 @@
 Send a Tweet to move a Servo
 ============================
 
-When anyone tweets "setservo 123" (where 123 is a number of degrees) then the servo will move to
-that many degrees.
+When anyone tweets `setservo 123` (where 123 is a number of degrees) then the servo will move to that many degrees.
 
 
 Usage
